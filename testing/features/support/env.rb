@@ -13,7 +13,6 @@ require "webdrivers"
 
 require_relative "driver"
 require_relative "components/all"
-require_relative "forms/all"
 
 World(Capybara::RSpecMatcherProxies)
 
