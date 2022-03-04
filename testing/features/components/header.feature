@@ -1,14 +1,4 @@
 Feature: Header component
-
-  The Header component allows users to perform some quick tasks
-  - Login / Logout
-  - Change Language Between English and Welsh
-  - Make a search
-
-  It also allows the user as per new WCAG Guidelines to skip the top part
-  of the page and move straight to the Navigation/Content/Footer by using
-  their "Tab" key on the keyboard
-
   Background:
     Given a Standard Header component is on the page
 

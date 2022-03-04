@@ -1,8 +1,4 @@
 Feature: Targeted Content component
-
-  The Targeted Content component allows content managers
-  to store important information behind an expandable bar
-
   Rule: Default Targeted Content
     Background:
       Given a default targeted content component is on the page
